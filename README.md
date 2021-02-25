@@ -2,6 +2,10 @@
 
 This backend server will run inside Heroku and pull data from following two url's and expose an end point for Frontend data manipulation work. 
 
+- https://api.mentimeter.com/questions/48d75c359ce4
+- https://api.mentimeter.com/questions/48d75c359ce4/result
+
+
 ## Prerequisites
 
 - [Heroku](https://www.heroku.com/) account created to push your application 
