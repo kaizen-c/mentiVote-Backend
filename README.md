@@ -18,9 +18,11 @@ Build the Docker image locally and make sure it's working without any errors
 ```bash
 docker build -t flask-heroku:latest .
 # Check newly created images
-docker ps
+docker images
 # Run Docker locally
 docker run -d -p 5000:5000 flask-heroku
+# Check running containers
+docker ps
 ```
 Open Localhost port 5000 and you should observe something similar to http://localhost:5000 
 
