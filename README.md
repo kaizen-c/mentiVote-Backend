@@ -57,3 +57,5 @@ Once the application is released you will get a url to traverse to your applicat
 https://<appName>.herokuapp.com/voting?questionid=48d75c359ce4
 
 * As of now the only working exposed endpoint ID is 48d75c359ce4
+
+Ex: https://evening-hamlet-33250.herokuapp.com/voting?questionid=48d75c359ce4 
